@@ -23,16 +23,6 @@ public class GradeBookTest{
         System.out.println("El valor asignado es: " + book.getNameCurse());
         book.displayMessage();
                 
-        /*
-        List<Student> lista = new ArrayList<>();
-        
-        Student estudiante1 = new Student();
-        lista.add(estudiante1);
-        
-        for(Student list:lista){
-            System.out.println(list);
-        }
-       */
         
     }
 }
