@@ -1,6 +1,6 @@
 package poo.greatbooktext;
 
-public class GreatBook {
+public class GradeBook {
     
     private String nameCurse;
     
