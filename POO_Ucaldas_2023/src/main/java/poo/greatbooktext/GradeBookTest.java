@@ -20,6 +20,7 @@ public class GradeBookTest{
         
         System.out.println("El valor asignado es: " + book.getNameCurse());
         book.displayMessage();
+        System.out.println("");
                 
         
     }
